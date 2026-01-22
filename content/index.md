@@ -1,72 +1,98 @@
 ---
-title: UTOPYA — Cuisine visible (11h → 1h)
+title: UTOPYA — Suivi Cuisine Visible
+description: Où on en est, ce qui marche, ce qu'on teste
 date: 2026-01-22
-status: actif
 ---
 
-# UTOPYA — Cuisine visible (11h → 1h)
+# UTOPYA — Rendre la cuisine visible
 
-> **Mission** : faire savoir qu’on peut manger chez UTOPYA à toute heure (11h → 1h), sans nuire à l’ADN bar / soirées.
+**Situation** : Les clients viennent pour les cocktails et l'ambiance. Peu savent qu'on sert à manger de 11h à 1h du matin, tous les jours.
 
-## Signal → Action → Mesure → Décision
+---
 
-| Signal observé | Action testée | Mesure (preuve simple) | Décision |
-|---|---|---|---|
-| Clients surpris qu’on serve à midi | Affiche A4 “Cuisine 11h→1h” + “Plat du jour 11h–14h” en vitrine | Nb plats vendus midi (baseline semaine 1) | ⏳ Test 2 semaines |
-| Zéro contenu food l’après-midi | 1 story/jour montrant cuisine ouverte (14h–18h) | Vues story + DM “vous servez quand?” | ⏳ Test 2 semaines |
-| L’équipe répète “oui on fait à manger” | Mini-carte plastifiée sur chaque table | Nb questions “vous servez?” avant/après | ⏳ À lancer |
+## 📍 Où on en est
 
-Légende : ✅ Validé · ⏳ Test en cours · ❌ Stop · 💡 Idée
+### Ce qui marche déjà
+- ✅ Cuisine ouverte 11h → 1h (7j/7)
+- ✅ Équipe cuisine en place
+- ✅ Carte adaptée à toutes les heures
 
-## KPI terrain (à remplir, 10 min / semaine)
+### Le problème à régler
+- ❌ Personne ne sait qu'on peut manger à midi
+- ❌ Personne ne sait qu'on peut manger l'après-midi
+- ❌ Même le soir, certains demandent encore "vous faites à manger ?"
 
-### Semaine du : [DATE]
+---
+
+## 🔄 Ce qu'on teste maintenant
+
+| Action en cours | Pourquoi | Comment on mesure |
+|-----------------|----------|-------------------|
+| **Affiche vitrine "Cuisine 11h–1h"** | Signal physique immédiat pour les passants | On note si les gens arrêtent de demander |
+| **1 story Instagram par jour** | Montrer la cuisine ouverte à différentes heures | Nombre de vues + messages reçus |
+| **Carte sur chaque table** | Éviter que les clients ne sachent pas qu'on sert | Serveurs comptent combien posent la question |
+
+---
+
+## 🔢 Chiffres simples (semaine du [DATE])
 
 **Midi (11h–14h)**
-- Plats servis (lun–ven) : ___
-- Nouveaux clients midi (1ère fois) : ___
-- “Vous saviez qu’on servait à manger ?” (oui/non) : ___
+- Plats servis : ___
+- Nouveaux clients midi : ___
 
-**Journée (14h–18h)**
-- Tables occupées : ___
-- Tapas / planches vendus : ___
+**Après-midi (14h–18h)**
+- Planches/tapas vendus : ___
 
-**Soirée & nuit (18h–1h)**
+**Soirée (18h–1h)**
 - Plats vendus après 22h : ___
-- Clients venus “juste manger” : ___
 
 **Digital**
-- Stories food postées : ___
-- DM / commentaires mentionnant la food : ___
+- Stories postées : ___
+- Messages "vous servez quand ?" : ___
 
-## Todo hebdo (max 3)
+> 💡 **État de départ** = première semaine sans rien changer, juste pour voir d'où on part.
 
-### Semaine [DATE]
-- [ ] Mettre l’affiche “Cuisine 11h→1h” visible depuis la rue
-- [ ] Publier 3 stories food à 3 horaires différents (midi / aprem / nuit)
-- [ ] Brief équipe : répondre “Oui 11h→1h” + montrer la mini-carte
+---
 
-## Log (ce qui a été fait)
+## 📝 Ce qui s'est passé
 
-- **2026-01-22** — Dashboard créé. Baseline à établir (semaine 1).
-- **[DATE]** — [Action réalisée] → [résultat observé]
+**22 janvier 2026**  
+Lancement du suivi · Première version du dashboard
 
-## Décisions actives
+**[DATE]**  
+[Ligne simple : ce qu'on a fait + ce qu'on a remarqué]
 
-| Décision | Statut | Pourquoi |
-|---|---|---|
-| Une page unique (dashboard) | ✅ | Zéro friction côté client |
-| Affichage vitrine obligatoire | ⏳ | Signal immédiat passants |
-| Stories food quotidiennes (2 semaines) | ⏳ | Visibilité gratuite, effort minimal |
+---
 
-## Ce qu’on ne fait pas
-- Refonte site web
-- Publicités payantes
-- Menu “luxe”
-- Réservation obligatoire
+## 🧭 Décisions prises
 
-## Contact suivi
-- **Léo (UTOPYA)** : validation décisions
-- **Cédric (Facilo)** : mise à jour chaque lundi
+| Décision | Pourquoi |
+|----------|----------|
+| **Pas de menu papier luxe** | On reste simple, carte plastifiée suffit |
+| **Pas de résa obligatoire** | On garde l'esprit "tu passes quand tu veux" |
+| **Affiche vitrine en test** | Gratuit, immédiat, facile à mesurer |
+| **Pas de pub payante** | Priorité aux actions gratuites |
 
-Prochaine revue : **[DATE + 7 jours]**
+---
+
+## 🚫 Ce qu'on ne fait pas
+
+- Refonte du site web
+- Menu gastronomique imprimé
+- Campagne Facebook payante
+- Changer l'ADN bar de nuit
+
+---
+
+## 📞 Contact
+
+**Léo** — Patron UTOPYA  
+**Cédric** — Suivi Facilo
+
+---
+
+### 📎 Ressources (optionnel)
+
+Si besoin :
+- [[14_Checklist_Equipe|Checklist pour briefer l'équipe]]
+- [[15_Micro_Textes|Textes prêts pour vitrine / Instagram / réponses DM]]
