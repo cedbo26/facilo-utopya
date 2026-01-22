@@ -1,72 +1,72 @@
 ---
 title: UTOPYA — Cuisine visible (11h → 1h)
-date: 2025-01-22
+date: 2026-01-22
 status: actif
 ---
 
 # UTOPYA — Cuisine visible (11h → 1h)
 
-> Mission : faire savoir qu'on peut manger chez UTOPYA à toute heure, sans nuire à l'ADN bar de nuit.
+> **Mission** : faire savoir qu’on peut manger chez UTOPYA à toute heure (11h → 1h), sans nuire à l’ADN bar / soirées.
 
 ## Signal → Action → Mesure → Décision
 
-| Signal observé | Action testée | Mesure | Décision |
+| Signal observé | Action testée | Mesure (preuve simple) | Décision |
 |---|---|---|---|
-| Clients surpris qu'on serve à midi | Affiche A4 "Plat du jour 11h–14h" en vitrine | Nb plats vendus midi (baseline : ?) | Test 2 semaines |
-| Zéro présence IG l'après-midi | 1 story/jour montrant cuisine ouverte | Vues stories + DM "vous servez quand?" | En cours |
-| Serveurs répètent "oui on fait à manger" | Carte réduite plastifiée sur chaque table | Nb questions posées avant/après | À lancer |
-| | | | |
+| Clients surpris qu’on serve à midi | Affiche A4 “Cuisine 11h→1h” + “Plat du jour 11h–14h” en vitrine | Nb plats vendus midi (baseline semaine 1) | ⏳ Test 2 semaines |
+| Zéro contenu food l’après-midi | 1 story/jour montrant cuisine ouverte (14h–18h) | Vues story + DM “vous servez quand?” | ⏳ Test 2 semaines |
+| L’équipe répète “oui on fait à manger” | Mini-carte plastifiée sur chaque table | Nb questions “vous servez?” avant/après | ⏳ À lancer |
 
-Légende : ✅ Validé · ⏳ Test en cours · ❌ Inefficace · 💡 Idée
+Légende : ✅ Validé · ⏳ Test en cours · ❌ Stop · 💡 Idée
 
-## KPI Terrain (simples)
+## KPI terrain (à remplir, 10 min / semaine)
 
-Semaine du [DATE]
+### Semaine du : [DATE]
 
-Midi (11h–14h)
-- Plats servis lun–ven : ___
-- Nouveaux clients (1ère fois midi) : ___
-- "Vous servez à manger ?" (oui/non) : ___
+**Midi (11h–14h)**
+- Plats servis (lun–ven) : ___
+- Nouveaux clients midi (1ère fois) : ___
+- “Vous saviez qu’on servait à manger ?” (oui/non) : ___
 
-Journée (14h–18h)
+**Journée (14h–18h)**
 - Tables occupées : ___
-- Planches/tapas vendus : ___
+- Tapas / planches vendus : ___
 
-Soirée (18h–1h)
+**Soirée & nuit (18h–1h)**
 - Plats vendus après 22h : ___
-- Clients venus "juste manger" : ___
+- Clients venus “juste manger” : ___
 
-Digital
-- Stories IG postées : ___
-- DM/commentaires mentionnant la food : ___
+**Digital**
+- Stories food postées : ___
+- DM / commentaires mentionnant la food : ___
 
-## Todo Hebdo (max 3)
+## Todo hebdo (max 3)
 
-Semaine [DATE]
-- [ ] Afficher "Cuisine 11h→1h" visible depuis la rue
-- [ ] Poster 1 story montrant un plat servi l'après-midi
-- [ ] Briefer l'équipe : répondre "OUI 11h→1h" + donner la carte
+### Semaine [DATE]
+- [ ] Mettre l’affiche “Cuisine 11h→1h” visible depuis la rue
+- [ ] Publier 3 stories food à 3 horaires différents (midi / aprem / nuit)
+- [ ] Brief équipe : répondre “Oui 11h→1h” + montrer la mini-carte
 
-## Log
+## Log (ce qui a été fait)
 
-2025-01-22 — Lancement dashboard, baseline KPI à établir semaine 1  
-[DATE] — [Action réalisée + résultat]
+- **2026-01-22** — Dashboard créé. Baseline à établir (semaine 1).
+- **[DATE]** — [Action réalisée] → [résultat observé]
 
 ## Décisions actives
 
-| Décision | Validée le | Pourquoi |
-|---|---:|---|
-| Pas de menu complexe | 2025-01-22 | Simplicité bar + cuisine accessible |
-| Affichage vitrine obligatoire | En test | Signal physique immédiat |
-| Stories IG quotidiennes (2 semaines) | En test | Visibilité gratuite, effort minimal |
+| Décision | Statut | Pourquoi |
+|---|---|---|
+| Une page unique (dashboard) | ✅ | Zéro friction côté client |
+| Affichage vitrine obligatoire | ⏳ | Signal immédiat passants |
+| Stories food quotidiennes (2 semaines) | ⏳ | Visibilité gratuite, effort minimal |
 
-## Ce qu'on ne fait pas
+## Ce qu’on ne fait pas
 - Refonte site web
-- Ads
-- Menu luxe
+- Publicités payantes
+- Menu “luxe”
 - Réservation obligatoire
 
 ## Contact suivi
-Léo (UTOPYA) — Validation décisions  
-Cédric (Facilo) — Mise à jour chaque lundi  
-Prochaine revue : [DATE + 1 semaine]
+- **Léo (UTOPYA)** : validation décisions
+- **Cédric (Facilo)** : mise à jour chaque lundi
+
+Prochaine revue : **[DATE + 7 jours]**
