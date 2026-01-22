@@ -1,3 +1,5 @@
+↩︎ Retour dashboard : [UTOPYA — Actu & TODO](/facilo-utopya/)
+[[00_ACTU_TODO|Actu & TODO]]
 # Assets & Sources — UTOPYA (dump local)
 
 Inventaire (ne pas copier les binaires; seulement référencer)

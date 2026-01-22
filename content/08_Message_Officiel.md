@@ -1,3 +1,5 @@
+↩︎ Retour dashboard : [UTOPYA — Actu & TODO](/facilo-utopya/)
+[[00_ACTU_TODO|Actu & TODO]]
 # UTOPYA — Message Officiel
 
 ## Message pivot UNIQUE (à répéter partout)

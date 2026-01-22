@@ -1,3 +1,5 @@
+↩︎ Retour dashboard : [UTOPYA — Actu & TODO](/facilo-utopya/)
+[[00_ACTU_TODO|Actu & TODO]]
 # UTOPYA — Stratégie Food Non-Stop
 ## Document de cadrage stratégique (version partageable)
 

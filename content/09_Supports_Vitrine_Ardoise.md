@@ -1,3 +1,5 @@
+↩︎ Retour dashboard : [UTOPYA — Actu & TODO](/facilo-utopya/)
+[[00_ACTU_TODO|Actu & TODO]]
 # UTOPYA — Supports Vitrine / Ardoise
 
 ## Bloc A — version courte impact (prêt à imprimer)
