@@ -13,6 +13,15 @@ En réalité, la **cuisine est ouverte non-stop jusqu’à 1h**, avec une street
 
 ---
 
+## 🧭 Contexte marché (Yverdon)
+Quand quelqu’un cherche “manger à Yverdon”, les lieux qui ressortent en premier sont ceux qui affichent clairement : menu (même court), photos de plats, et heures de cuisine.
+Aujourd’hui, UTOPYA ressort surtout comme bar/cocktails/soirées — l’enjeu est donc de rendre l’offre food évidente pour exister dans la recherche “où manger”.
+
+👉 Détails : [[Analyse — Concurrence Food Yverdon (présence digitale)]]
+👉 Positionnement : [[Positionnement — Food UTOPYA]]
+
+---
+
 ## 🎯 Décision stratégique validée
 **Assumer clairement :**
 > **UTOPYA — Bar latino à cuisine ouverte non-stop jusqu’à 1h**

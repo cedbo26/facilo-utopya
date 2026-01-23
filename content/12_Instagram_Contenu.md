@@ -2,6 +2,9 @@
 
 Exemples simples, ton terrain. À adapter selon les photos du moment.
 
+Toute communication food doit être alignée avec :
+👉 [[Positionnement — Food UTOPYA]]
+
 ---
 
 ## Exemple 1 — Post photo plat

@@ -4,6 +4,12 @@ Objectif : **rendre la cuisine visible**, sans changer l’ambiance bar/soirées
 
 ---
 
+🎯 Positionnement food  
+Toutes les actions food doivent suivre un message unique et cohérent.  
+Référence centrale : [[Positionnement — Food UTOPYA]]
+
+---
+
 ## 1) Vitrine + rue (visibilité immédiate)
 **Quoi** : afficher « cuisine ouverte non-stop jusqu’à 1h » + 3 plats phares.  
 **Où** : vitrine, ardoise, entrée, zone visible depuis la rue.  

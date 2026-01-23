@@ -1,5 +1,11 @@
 # Google — post “on peut manger”
 
+## Objectif
+Le contenu Google doit refléter le positionnement food UTOPYA :
+👉 [[Positionnement — Food UTOPYA]]
+
+---
+
 ## Post à publier (copier-coller)
 **Titre**
 On peut manger chez UTOPYA
