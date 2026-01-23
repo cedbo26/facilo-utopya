@@ -1,18 +1,21 @@
-↩︎ Retour dashboard : [UTOPYA — Actu & TODO](/facilo-utopya/)
-[[00_ACTU_TODO|Actu & TODO]]
-# UTOPYA — Checklist Exécution Équipe
+# Checklist — équipe
 
 ## Phrase à dire à chaque client
 « Oui, la cuisine est ouverte toute la journée, jusqu’à 1h. »
 
-## Checklist J+7
-- ardoise posée
-- menu visible
-- Google Business à jour
-- bio Instagram modifiée
-- équipe briefée
+---
 
-## KPI terrain simples
-- couverts food / jour
-- heures de commande
-- question client: “Vous saviez qu’on pouvait manger ici ?”
+## Ce qu’on fait (observable)
+- Le menu table est posé sur **chaque** table
+- L’ardoise “cuisine non-stop” est visible depuis la rue
+- Quand un client commande un verre, on rappelle qu’on peut manger
+- Une photo food est prise chaque jour (si possible)
+
+---
+
+## Ce qu’on note (terrain)
+- Couverts food par jour
+- Heures de commande (midi · apéro · soir)
+- Question client : « Vous saviez qu’on pouvait manger ici ? »
+
+← Retour à [[UTOPYA — Suivi Food Non-Stop]]

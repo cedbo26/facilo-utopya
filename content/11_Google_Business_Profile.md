@@ -1,20 +1,29 @@
-↩︎ Retour dashboard : [UTOPYA — Actu & TODO](/facilo-utopya/)
-[[00_ACTU_TODO|Actu & TODO]]
-# UTOPYA — Google Business Profile
+# Google — post “on peut manger”
 
-## Description prête à copier-coller
-Bar latino à Yverdon avec cuisine ouverte non-stop jusqu’à 1h.
-Street food colombienne simple et rapide: empanadas, salchipapas, perros.
-Sur place, à l’emporter ou en livraison.
+## Post à publier (copier-coller)
+**Titre**
+On peut manger chez UTOPYA
 
-## Catégories
-- Principale: Bar
-- Secondaire: Restaurant / Restauration rapide
+**Texte**
+UTOPYA, c’est un bar latino **et** une cuisine ouverte non-stop.  
+Street food colombienne simple, servie toute la journée.  
+**Cuisine ouverte : 11h → 1h**  
+Sur place · À l’emporter · Livraison (Smood)
 
-## Checklist photos (plats > cocktails)
-- Empanadas
-- Salchipapas
-- Perro Colombiano
-- Grande salade mêlée
-- Portion de frites
-- Cuisine / préparation (si possible)
+**Bouton**
+Itinéraire
+
+---
+
+## Photos à utiliser (1 à 3 max)
+1) Un plat bien cadré (Empanadas ou Salchipapas)
+2) Un plat + une boisson sur table
+3) (Optionnel) Une photo cuisine / préparation
+
+---
+
+## À éviter
+- Photos uniquement cocktails
+- Texte trop long
+
+← Retour à [[UTOPYA — Suivi Food Non-Stop]]

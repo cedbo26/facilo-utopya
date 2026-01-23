@@ -1,12 +1,16 @@
-↩︎ Retour dashboard : [UTOPYA — Actu & TODO](/facilo-utopya/)
-[[00_ACTU_TODO|Actu & TODO]]
-# UTOPYA — Message Officiel
+# Message officiel UTOPYA
 
-## Message pivot UNIQUE (à répéter partout)
+## Message unique (à répéter partout)
 **UTOPYA — Bar latino à cuisine ouverte non-stop jusqu’à 1h**
 
-## Sous-ligne optionnelle
+## Ligne simple (si besoin)
 Street food colombienne · Sur place · À l’emporter · Livraison
 
+## Différence claire
+- **Boissons** : cocktails raffinés
+- **Restauration** : food non-stop
+
 ## Règle d’usage
-**1 seul message à la fois. Ne pas décliner.**
+Un seul message à la fois. Ne pas décliner.
+
+← Retour à [[UTOPYA — Suivi Food Non-Stop]]

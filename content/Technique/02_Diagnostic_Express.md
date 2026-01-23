@@ -1,5 +1,3 @@
-↩︎ Retour dashboard : [UTOPYA — Actu & TODO](/facilo-utopya/)
-[[00_ACTU_TODO|Actu & TODO]]
 # Diagnostic Express — UTOPYA (midi)
 
 1) Visible: bar latino, cocktails, soirées, street food.

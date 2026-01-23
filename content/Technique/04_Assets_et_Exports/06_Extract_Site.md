@@ -1,5 +1,3 @@
-↩︎ Retour dashboard : [UTOPYA — Actu & TODO](/facilo-utopya/)
-[[00_ACTU_TODO|Actu & TODO]]
 # Extract Site — UTOPYA (par page)
 
 ## Accueil — /utopya-yverdon.ch/index.html

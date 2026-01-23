@@ -1,5 +1,3 @@
-↩︎ Retour dashboard : [UTOPYA — Actu & TODO](/facilo-utopya/)
-[[00_ACTU_TODO|Actu & TODO]]
 # Mémoire Projet — UTOPYA
 
 A. Faits établis (depuis le dump)

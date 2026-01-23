@@ -1,5 +1,3 @@
-↩︎ Retour dashboard : [UTOPYA — Actu & TODO](/facilo-utopya/)
-[[00_ACTU_TODO|Actu & TODO]]
 # UTOPYA — Dossier projet (Obsidian)
 
 But: extraire le contenu utile du dump local pour augmenter les couverts du midi.

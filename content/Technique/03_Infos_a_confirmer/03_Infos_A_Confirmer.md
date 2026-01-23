@@ -1,5 +1,3 @@
-↩︎ Retour dashboard : [UTOPYA — Actu & TODO](/facilo-utopya/)
-[[00_ACTU_TODO|Actu & TODO]]
 # Infos à confirmer — UTOPYA
 
 Checklist (priorité midi)
